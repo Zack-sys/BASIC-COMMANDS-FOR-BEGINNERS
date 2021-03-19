@@ -1,2 +1,34 @@
 # BASIC-COMMANDS-FOR-BEGINNERS
-cd . .  Change current directory to parent directory.  cd -  Move one directory back from where you are now  cp-r  Used to copy any directory [including hidden files]  cp -f  Force copy by removing the destination files if needed  mv -f  Force move by overwriting destination files without prompt  mv -v  To move any directory  mv [file1 name] [new file2 name] to rename files file1 renames to file2  Is  List current folder contents  is -l  To show files/directory size,modified,date,time,owner of file,permissions  ls -a  List of all files including hidden files  ls -R  It shows recursively list of sub-directories  cat[file]  To display file information  nano [file]  To display and edit files  wget  This command used to download any file from online source like github  git clone [github url]  Used to clone any repository form github.  rm [file]  Used to remove/delete any files  clear  To clear all the task on a terminal; means clear terminal  uname -m  Used to find the architecture of your device.
+
+$ cd . .  
+Change current directory to parent directory.  
+$ cd -  
+Move one directory back from where you are now  
+$ cp-r  
+Used to copy any directory [including hidden files]  
+$ cp -f  
+Force copy by removing the destination files if needed  
+$ mv -f  
+Force move by overwriting destination files without prompt  
+$ mv -v  
+To move any directory  mv [file1 name] [new file2 name] to rename files file1 renames to file2  Is  List current folder contents  
+$ is -l  
+To show files/directory size,modified,date,time,owner of file,permissions  
+$ ls -a  
+List of all files including hidden files  
+$ ls -R  
+It shows recursively list of sub-directories  
+$ cat[file]  
+To display file information  
+$ nano [file]  
+To display and edit files  
+$ wget  
+This command used to download any file from online source like github  
+$ git clone [github url]  
+Used to clone any repository form github.  
+$ rm [file]  
+Used to remove/delete any files  
+$ clear  
+To clear all the task on a terminal; means clear terminal  
+$ uname -m  
+Used to find the architecture of your device.
